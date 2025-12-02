@@ -1,7 +1,7 @@
 
-  # Farmacia Franchise Interface
-
-  This is a code bundle for Farmacia Franchise Interface. The original project is available at https://www.figma.com/design/mz1oEmRHnsnhRwh83a9m9M/Farmacia-Franchise-Interface.
+  # FarmaPlus
+  
+  Este es el enlace para acceder a la franquicia farmaceutica: https://pants-skill-66276154.figma.site
 
   ## Running the code
 
