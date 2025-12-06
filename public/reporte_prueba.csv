@@ -1,0 +1,35 @@
+--- REPORTE CONSOLIDADO (PRUEBA) ---
+
+Fecha de Generación: 06 Diciembre 2025
+Resumen General de Datos:
+
+### VENTAS (Sales) ###
+Total Vendido: $29,650.00 | Total Transacciones: 1,847 | Promedio por Transacción: $16.06
+Productos Más Vendidos (Unidades):
+1. Acetaminofén 500mg (245 unidades)
+2. Ibuprofeno 400mg (189 unidades)
+3. Amoxicilina 500mg (156 unidades)
+
+### INVENTARIO (Inventory) ###
+Total de Unidades en Movimiento: 3,890
+Stock Crítico/Bajo:
+- Stock Bajo - Amoxicilina
+- Stock Crítico - Losartán
+
+### CLIENTES (Customers) ###
+Total Transacciones de Clientes: 1,568
+Clientes con Mayor Ingreso Generado:
+1. María González ($1,285.50)
+2. Carlos Ruiz ($1,156.75)
+3. Ana Martínez ($1,090.25)
+
+### DATOS DIARIOS CONSOLIDADOS ###
+|  Período  | Ventas (USD) | Transacciones (Ventas) |
+|-----------|--------------|------------------------|
+| Lunes     | $1,250       | 45                     |
+| Martes    | $1,450       | 52                     |
+| Miércoles | $1,680       | 58                     |
+| Jueves    | $1,920       | 67                     |
+| Viernes   | $2,340       | 82                     |
+| Sábado    | $2,850       | 95                     |
+| Domingo   | $1,890       | 62                     |
